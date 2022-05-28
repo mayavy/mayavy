@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayavy
 - 👀 I’m interested in django, web-dev
 - 🌱 I’m currently learning djngo-rest
-- 💞️ I’m looking to collaborate on anything related to above.
+- 💞️ I’m looking for a job related to above.
 - 📫 reach me twitter @kntshashi
 
 <!---
